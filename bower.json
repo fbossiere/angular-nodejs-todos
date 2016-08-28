@@ -1,0 +1,14 @@
+{
+  "name": "angular_fullstack_gen_test",
+  "description": "",
+  "main": "./app/js/app.js",
+  "authors": [
+    "pacobuenaparte"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
