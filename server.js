@@ -9,6 +9,7 @@ var bodyParser = require('body-parser');    // pull information from HTML POST (
 var methodOverride = require('method-override'); // simulate DELETE and PUT (express4)
 var path = require('path');
 
+
 // configuration =================
 
 mongoose.connect('mongodb://localhost/angular_test_app');     // connect to mongoDB database
